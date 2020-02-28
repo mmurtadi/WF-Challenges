@@ -1,2 +1,2 @@
-# widerfunnel
-widerfunnel challenges
+# WF
+WF challenges
